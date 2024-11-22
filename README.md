@@ -3,6 +3,9 @@
 ## ドキュメント
 [こちらをクリックしてください](https://flet.dev/)
 
+## Fletでは複数の簡易アプリのコードがサンプルとしてGithub上で公開されています。
+[サンプルレポジトリ](https://github.com/flet-dev/examples/tree/main/python)
+
 ## Fletとは
 Fletは、Pythonを使ってウェブアプリやデスクトップアプリを作成できるフレームワークです。
 
