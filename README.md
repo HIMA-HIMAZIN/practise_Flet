@@ -6,6 +6,21 @@
 ## Fletでは複数の簡易アプリのコードがサンプルとしてGithub上で公開されています。
 [サンプルレポジトリ](https://github.com/flet-dev/examples/tree/main/python)
 
+---
+
+## はじめに
+
+### アプリケーションの起動
+```
+python main.py
+```
+
+### ホットリロードを有効にする際は別のターミナルを開き以下のコマンドを入力してください。
+```
+python hot_reload.py
+```
+---
+
 ## Fletとは
 Fletは、Pythonを使ってウェブアプリやデスクトップアプリを作成できるフレームワークです。
 
